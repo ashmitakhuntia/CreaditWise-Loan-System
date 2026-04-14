@@ -19,7 +19,7 @@ Most of the cases we see good customers get rejected and suspicios customers get
 - Scaled numerical features
 - Handled missing values
 - Selected important features
-- 
+ 
 ---
 
 ## 🤖 Models Used
